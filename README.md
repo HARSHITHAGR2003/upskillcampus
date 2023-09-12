@@ -1,2 +1,0 @@
-# upskillcampus
-smartcitytraffic project 
